@@ -1,0 +1,18 @@
+# One URL per line. A site is DOWN only after 3 failed tries ~20s apart in one run.
+https://goatmusic.me
+https://goatmusic.me/api/health
+https://www.puzzably.com
+https://samplesaletracker.com
+https://eli5cars.com
+https://culturecards.store
+https://goatstudio.ai
+https://thewav.store
+https://dreamitup.store
+https://flavorsavor.me
+https://fuckrecordlabels.com
+https://puyarahmanian.com
+https://alloyhaus.com
+https://goodorgimmick.com
+https://skrt.club
+https://playeroriginals.com
+https://counterroots.com
